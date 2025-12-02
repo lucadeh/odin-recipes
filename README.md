@@ -1,1 +1,1 @@
-# odin-recipes
+// Hey there! Whoever you are I already know you will like the topic of this page.. Today Im going to reveal the secrets of how to make the best pizza at home without a professional ovens only with one pan and your traditional oven. The first pizza might not be the best looking one, but don't give up and keep trying, I promise you'll pizza will taste like in the restaurant with this method
